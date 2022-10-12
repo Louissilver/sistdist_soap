@@ -11,6 +11,29 @@ De um lado temos um servidor em Python que possui endpoints para requisição de
 </h3>
 </br>
 
+## 🚀 Desenvolvido por
+</br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/113436486?v=4" width="100px;" alt="Foto do Leonardo Auler no GitHub"/><br>
+        <sub>
+          <b>Leonardo Auler</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/63754409?v=4" width="100px;" alt="Foto do Luís da Silveira no GitHub"/><br>
+        <sub>
+          <b>Luís Fernando da Silveira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Sumário
 
 --- 
